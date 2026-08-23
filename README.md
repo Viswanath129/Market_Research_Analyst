@@ -226,7 +226,7 @@ Do not assume that the user is automatically the buyer.
 
 ---
 
-# 4. Customer Pain Points
+## 4. Customer Pain Points
 
 Investigate:
 
@@ -257,7 +257,7 @@ Revenue leakage
 
 ---
 
-# 5. Existing Solutions
+## 5. Existing Solutions
 
 Determine how customers currently solve the problem.
 
@@ -292,7 +292,7 @@ A manual workflow is still a competitor if customers are comfortable using it.
 
 ---
 
-# 6. Competitor Analysis
+## 6. Competitor Analysis
 
 Separate competitors into:
 
@@ -331,7 +331,7 @@ The important question is:
 
 ---
 
-# 7. Competitive Gap Analysis
+## 7. Competitive Gap Analysis
 
 After researching competitors, identify:
 
@@ -358,7 +358,7 @@ Not every missing feature represents an opportunity.
 
 ---
 
-# 8. Pricing Research
+## 8. Pricing Research
 
 Analyze how the market currently charges customers.
 
@@ -389,7 +389,7 @@ Do not recommend a pricing model simply because it is popular.
 
 ---
 
-# 9. Willingness to Pay
+## 9. Willingness to Pay
 
 Investigate:
 
@@ -412,7 +412,7 @@ does not mean:
 
 ---
 
-# 10. Market Trends
+## 10. Market Trends
 
 Analyze:
 
@@ -440,7 +440,7 @@ Do not confuse social-media attention with market demand.
 
 ---
 
-# 11. Timing Analysis
+## 11. Timing Analysis
 
 Determine whether the market is:
 
@@ -465,7 +465,7 @@ Consider:
 
 ---
 
-# 12. TAM / SAM / SOM
+## 12. TAM / SAM / SOM
 
 When sufficient data is available, estimate:
 
@@ -503,7 +503,7 @@ Clearly distinguish:
 
 ---
 
-# 13. Business Model Analysis
+## 13. Business Model Analysis
 
 Evaluate possible business models:
 
@@ -533,7 +533,7 @@ Recommend the most realistic model rather than the most attractive-looking model
 
 ---
 
-# 14. Go-To-Market Analysis
+## 14. Go-To-Market Analysis
 
 When requested, analyze:
 
@@ -563,7 +563,7 @@ And:
 
 ---
 
-# 15. Switching Costs
+## 15. Switching Costs
 
 Analyze why customers might refuse to change from their current solution.
 
@@ -584,7 +584,7 @@ A technically better product can still fail if switching is too painful.
 
 ---
 
-# 16. Market Entry Barriers
+## 16. Market Entry Barriers
 
 Analyze:
 
@@ -611,7 +611,7 @@ Very High
 
 ---
 
-# 17. Risk Analysis
+## 17. Risk Analysis
 
 Identify:
 
