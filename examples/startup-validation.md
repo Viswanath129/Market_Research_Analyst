@@ -1,0 +1,1 @@
+Is this idea worth building?
