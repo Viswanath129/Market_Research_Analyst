@@ -1,0 +1,1 @@
+When asked to research competitors, provide:
