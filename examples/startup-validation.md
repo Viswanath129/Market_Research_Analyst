@@ -1,0 +1,1 @@
+Example for evaluating a startup idea.
